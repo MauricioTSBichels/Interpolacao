@@ -5,7 +5,7 @@ import Menu from './componentes/Menu.jsx'
 function App() {
   return (
       <div>
-        <Menu />
+        <Menu especime="Humano" lugar="palhoça city" />
       </div>
   )
 }
